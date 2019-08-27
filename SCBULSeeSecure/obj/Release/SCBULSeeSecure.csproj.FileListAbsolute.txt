@@ -1,0 +1,4 @@
+C:\Users\SY\Dropbox\SCBULSeeSecure\SCBULSeeSecure\bin\Release\SCBULSeeSecure.dll
+C:\Users\SY\Dropbox\SCBULSeeSecure\SCBULSeeSecure\bin\Release\SCBULSeeSecure.pdb
+C:\Users\SY\Dropbox\SCBULSeeSecure\SCBULSeeSecure\obj\Release\SCBULSeeSecure.dll
+C:\Users\SY\Dropbox\SCBULSeeSecure\SCBULSeeSecure\obj\Release\SCBULSeeSecure.pdb

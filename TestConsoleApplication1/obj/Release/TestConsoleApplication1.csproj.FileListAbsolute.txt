@@ -1,0 +1,7 @@
+C:\Users\SY\Dropbox\SCBULSeeSecure\TestConsoleApplication1\bin\Release\TestConsoleApplication1.exe.config
+C:\Users\SY\Dropbox\SCBULSeeSecure\TestConsoleApplication1\bin\Release\TestConsoleApplication1.exe
+C:\Users\SY\Dropbox\SCBULSeeSecure\TestConsoleApplication1\bin\Release\TestConsoleApplication1.pdb
+C:\Users\SY\Dropbox\SCBULSeeSecure\TestConsoleApplication1\bin\Release\SCBULSeeSecure.dll
+C:\Users\SY\Dropbox\SCBULSeeSecure\TestConsoleApplication1\obj\Release\TestConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\SY\Dropbox\SCBULSeeSecure\TestConsoleApplication1\obj\Release\TestConsoleApplication1.exe
+C:\Users\SY\Dropbox\SCBULSeeSecure\TestConsoleApplication1\obj\Release\TestConsoleApplication1.pdb

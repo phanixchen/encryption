@@ -1,0 +1,5 @@
+D:\Dropbox\SCBULSeeSecure\SCBULSeeSecure\bin\Debug\SCBULSeeSecure.dll
+D:\Dropbox\SCBULSeeSecure\SCBULSeeSecure\bin\Debug\SCBULSeeSecure.pdb
+D:\Dropbox\SCBULSeeSecure\SCBULSeeSecure\obj\Debug\SCBULSeeSecure.csprojResolveAssemblyReference.cache
+D:\Dropbox\SCBULSeeSecure\SCBULSeeSecure\obj\Debug\SCBULSeeSecure.dll
+D:\Dropbox\SCBULSeeSecure\SCBULSeeSecure\obj\Debug\SCBULSeeSecure.pdb

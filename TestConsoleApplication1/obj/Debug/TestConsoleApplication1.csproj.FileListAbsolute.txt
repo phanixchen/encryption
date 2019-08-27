@@ -1,0 +1,8 @@
+D:\Dropbox\SCBULSeeSecure\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.exe.config
+D:\Dropbox\SCBULSeeSecure\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.exe
+D:\Dropbox\SCBULSeeSecure\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.pdb
+D:\Dropbox\SCBULSeeSecure\TestConsoleApplication1\bin\Debug\SCBULSeeSecure.dll
+D:\Dropbox\SCBULSeeSecure\TestConsoleApplication1\bin\Debug\SCBULSeeSecure.pdb
+D:\Dropbox\SCBULSeeSecure\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Dropbox\SCBULSeeSecure\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.exe
+D:\Dropbox\SCBULSeeSecure\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.pdb
